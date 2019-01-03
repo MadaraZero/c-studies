@@ -1,1 +1,1 @@
-Studies from the book C The Hard Way.
+Studies based on the book C The Hard Way.
