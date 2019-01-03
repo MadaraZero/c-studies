@@ -1,0 +1,9 @@
+Function Prototype:
+return_type function_name( arg-type name-1,...,arg-type name-n);
+
+
+Function Definition:
+return_type function_name( arg-type name-1,...,arg-type name-n)
+{
+/* statements; */
+}
