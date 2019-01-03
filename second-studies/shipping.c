@@ -1,4 +1,4 @@
-/* Code that will calculate the cheapest way of shipping packages based on their
+/*  Code that will calculate the cheapest way of shipping packages based on their
 weight. Options are Premium shipping, ground shipping, and Drone shipping. */
 
 #include <stdio.h>
